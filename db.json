@@ -1,0 +1,41 @@
+{
+    "records": [
+      {
+        "id": "1",
+        "date": "2/2/2022",
+        "pair": "USD/JPY",
+        "open_price": "127.98",
+        "closed_price": "118.98",
+        "image_url": "",
+        "profit": "960"
+      },
+      {
+          "id": "2",
+          "date": "2/2/2022",
+          "pair": "EUR/USD",
+          "open_price": "96.45",
+          "closed_price": "112.23",
+          "image_url": "",
+          "profit": "-98"
+        },
+        {
+          "id": "3",
+          "date": "2/2/2022",
+          "pair": "JPY/CAD",
+          "open_price": "154.25",
+          "closed_price": "125.39",
+          "image_url": "",
+          "profit": "47"
+        },
+        {
+          "id": "4",
+          "date": "2/2/2022",
+          "pair": "USD/JPY",
+          "open_price": "127.98",
+          "closed_price": "118.98",
+          "image_url": "",
+          "profit": "960"
+        }
+    ]
+  }
+  
